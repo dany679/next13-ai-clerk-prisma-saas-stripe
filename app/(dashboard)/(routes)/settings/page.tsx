@@ -1,3 +1,4 @@
+"use client";
 import { Heading } from "@/components/Heading";
 import { routesObjects } from "@/utils/constants";
 
