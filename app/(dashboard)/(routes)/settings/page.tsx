@@ -1,14 +1,12 @@
-"use client";
 import { Heading } from "@/components/Heading";
 import { routesObjects } from "@/utils/constants";
 
 import { SubscriptionButton } from "@/components/subscription-button";
 import { checkSubscription } from "@/lib/subscription";
-import { use } from "react";
-const SettingsPage = () => {
+const SettingsPage = async () => {
   const page = routesObjects.settings;
 
-  const isPro = use(checkSubscription());
+  const isPro = await checkSubscription();
 
   return (
     <div>
