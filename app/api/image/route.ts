@@ -31,7 +31,7 @@ export async function POST(req: Request) {
     }
     const freeTrial = await checkApiLimit();
     const isPro = await checkSubscription();
-    if (!freeTrial) {
+    if (!freeTrial && !isPro) {
       return new NextResponse("Free Trial expired", { status: 403 });
     }
     const generate = await openai.images.generate({
