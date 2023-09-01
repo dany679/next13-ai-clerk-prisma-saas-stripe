@@ -1,6 +1,7 @@
->
 
-![](https://youtu.be/IKFchw-bK7U)
+
+https://github.com/dany679/next13-ai-clerk-prisma-saas-stripe/assets/59980463/282ab43f-ea78-4978-8b83-49e6447e911b
+
 
 <p>Link para visitar o site : 
 <a href="next13-ai-clerk-prisma-saas-stripe.vercel.app" />Demo</a>
