@@ -4,7 +4,7 @@ https://github.com/dany679/next13-ai-clerk-prisma-saas-stripe/assets/59980463/28
 
 
 <p>Link para visitar o site : 
-<a href="next13-ai-clerk-prisma-saas-stripe.vercel.app" />Demo</a>
+<a href="https://next13-ai-clerk-prisma-saas-stripe.vercel.app/" />Demo</a>
 </p>
 <p align='center'> Genius <p/>
 
